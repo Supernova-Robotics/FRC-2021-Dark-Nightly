@@ -1,5 +1,7 @@
 # Supernova Team 5451 2021 Robot Code: Dark Nightly
 
+[![CI](https://github.com/Supernova-Robotics/FRC-2021-Dark-Nightly/actions/workflows/main.yml/badge.svg)](https://github.com/Supernova-Robotics/FRC-2021-Dark-Nightly/actions/workflows/main.yml)
+
 ## Controls
 
 ![](docs/stick_assignment.jpg)
